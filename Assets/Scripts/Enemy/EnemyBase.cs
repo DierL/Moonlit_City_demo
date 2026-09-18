@@ -39,7 +39,7 @@ public class EnemyBase : MonoBehaviour
     protected SpriteRenderer lockRenderer;
 
     //Player Detection
-    private Transform player;
+    protected Transform player;
 
     private bool playerDetected = false;
 

@@ -229,10 +229,26 @@
 
 ### 2026-08-30
 
-**重大进展！完成了怪物的基础AI！修复了期间产生的bug**
+**重大进展！完成了怪物的基础AI！修复了期间产生的bug。**
 **Great progress! Completed the basic Enemy AI! Fixed several bugs encountered during the process**
 
 **第一个怪物的名字叫“补丁”，是一个近战怪物，被它碰到会造成伤害。**
 **The first enemy is called "Patch," and it's a melee monster that will cause damage if player touches it.**
+
+---
+
+## 2026-09
+
+### 2026-09-17
+
+**两个星期之后的回归。**
+**A Return After Two Weeks**
+
+**完成了远程怪Shooter，会发射子弹攻击玩家。玩家可以通过走位来躲避。**
+**Added the ranged enemy, Shooter! It can now fire projectiles at the player, while the player can dodge the attacks through movement.**
+
+**怪物的开发暂时告一段落了！游戏的可玩性也在渐渐提升！接下来就会开发房间相关的机制了！**
+**The enemy development phase is temporarily coming to an end! The game's playability is gradually taking shape, and the core gameplay is starting to feel more complete.**
+**Next up: the Room System! I'll be moving on to developing room-related mechanics and building the foundation for the game's roguelike loop.**
 
 
