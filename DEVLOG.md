@@ -251,4 +251,23 @@
 **The enemy development phase is temporarily coming to an end! The game's playability is gradually taking shape, and the core gameplay is starting to feel more complete.**
 **Next up: the Room System! I'll be moving on to developing room-related mechanics and building the foundation for the game's roguelike loop.**
 
+### 2026-10-14
 
+**凌晨两点。对于拖更真是太抱歉了，但在离开的日子里更新了一些IP相关的剧情和文案。一切都在渐渐变好！**
+
+**近些时日断断续续完成了房间相关的设计。过程中尝试了贴地板，以失败告终。素材不合格。**
+
+**不过这也让我为月下幻行的开发团队引入了新的成员！（见Contributor）luks牢尸一直以来负责素材的绘制，以后也会由她负责月下幻行美术素材的引入，而本人会继续玩法和功能方面的开发。**
+
+**今天我完成了房间的基础逻辑：房间内怪物死亡后，房间的出口会解锁。现在，一个简单的房间完成了。有玩家，战斗和通关条件。**
+
+**目前随着功能的完善，我们发现玩法/手感上存在着一些问题，会尽力在开发的过程中修复。**
+
+**接下来要攻克的一大难关是房间的循环————作为肉鸽最核心的玩法，这是最需要钻研的部分。**
+
+**During my absence, I managed to make some progress on the story and writing for the game's IP. Things are slowly getting better! Sorry for the long silence!**
+**I've also been working on the room system on and off recently. I tried setting up the floor tiles, but unfortunately, it didn't work out. The assets weren't quite up to the task yet.**
+**On the bright side, this also marks the arrival of a new member on the Moonlit City development team! (See Contributors.) luks has been creating the game's artwork and will continue to handle art asset creation and integration, while I'll focus on gameplay and feature development.**
+**Today, I finished the basic room logic: the exits unlock once all enemies in a room have been defeated. A simple room is finally complete, with a player, combat, and a clear win condition.**
+**As more features come together, we're also starting to notice some issues with gameplay and game feel. I'll do my best to address and improve them as development continues.**
+**The next major challenge is the room progression loop. As one of the core gameplay systems in a roguelike, it'll take plenty of thought, experimentation, and refinement to get right.**
